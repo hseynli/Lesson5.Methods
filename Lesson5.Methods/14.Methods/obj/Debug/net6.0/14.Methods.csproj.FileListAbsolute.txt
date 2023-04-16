@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\bin\Debug\net6.0\14.Methods.exe
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\bin\Debug\net6.0\14.Methods.deps.json
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\bin\Debug\net6.0\14.Methods.runtimeconfig.json
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\bin\Debug\net6.0\14.Methods.dll
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\bin\Debug\net6.0\14.Methods.pdb
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.dll
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\refint\14.Methods.dll
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.pdb
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\14.Methods.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson5.Methods\14.Methods\obj\Debug\net6.0\ref\14.Methods.dll

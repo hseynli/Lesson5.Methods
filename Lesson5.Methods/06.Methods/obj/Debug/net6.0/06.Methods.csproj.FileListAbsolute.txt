@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\bin\Debug\net6.0\06.Methods.exe
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\bin\Debug\net6.0\06.Methods.deps.json
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\bin\Debug\net6.0\06.Methods.runtimeconfig.json
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\bin\Debug\net6.0\06.Methods.dll
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\bin\Debug\net6.0\06.Methods.pdb
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.dll
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\refint\06.Methods.dll
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.pdb
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\06.Methods.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson5.Methods\06.Methods\obj\Debug\net6.0\ref\06.Methods.dll
